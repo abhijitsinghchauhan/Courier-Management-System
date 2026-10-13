@@ -1,7 +1,7 @@
 # Courier Management System (C++ Console OOP Project)
 
 **Enrollment No.:** IU2541230073  |  **Course Code:** CPP48  |  **Semester:** 3
-**Student:** Abhijit Chauhan  |  **Date of Submission:** 13/10/2026
+**Name:** Abhijit Chauhan  |  **Date of Submission:** 13/10/2026
 **GitHub Repository:** <paste your repository link here>
 
 ## 1. About
