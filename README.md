@@ -1,7 +1,6 @@
 # Courier Management System (C++ Console OOP Project)
 
-**Enrollment No.:** IU2541230073  |  **Name:** Abhijit Chauhan  |  **Semester:** 3
-**Course Code:** CPP48  |  **Date of Submission:** 13/10/2026
+**Enrollment No.:** IU2541230073  |  **Name:** Abhijit Chauhan  |  **Semester:** 3  |  **Course Code:** CPP48  |  **Date of Submission:** 13/10/2026
 
 ## 1. About
 A console-based Courier Management System written in C++17. It lets an operator register customers and
