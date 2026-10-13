@@ -1,0 +1,4 @@
+Standard|3001|1001|Neha Verma|2.50
+Express|3002|1002|Karan Shah|1.20
+Fragile|3003|1003|Meera Joshi|4.00
+Standard|3004|1001|Dev Mehta|10.00
